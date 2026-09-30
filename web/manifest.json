@@ -1,6 +1,6 @@
 {
-    "name": "mi_primera_app",
-    "short_name": "mi_primera_app",
+    "name": "mi_primera_aplicacion",
+    "short_name": "mi_primera_aplicacion",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
